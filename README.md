@@ -1,1 +1,1 @@
-# Metinden-tema-karma
+# Metinden-tema-çikarma
